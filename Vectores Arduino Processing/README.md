@@ -7,9 +7,8 @@
 #### [Pointer Test](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/ERRUY7QHAt9CkJEMrlinGhsBf-ftNuMbvmyCjpLmtLxupw?e=lBdjda)
 
 ## Part 2
-#### [Static Test 1](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/EQ3kRqk_aC5KiqLQZd2c4ewBaMP-4UU7_8-NA9x6KnlWdw?e=l71j8W)
 #### [Basic Loop](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/EbvEyZDkiOpOmL1nzIfmCDsBHIcOtpGk1nDW6tJm7A_Sjg?e=PqCde5)
 #### [Fibonacci Series](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/EeX0TMQGqNtDp4JoBIelIVAB5LG7l_LFvo4mY0dIKVeVzA?e=PfxjiA)
 #### [Simple Function](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/EYu3FazspaJOkgVBdBMJGdABrf1TuBGo-U50wtSoYuH8Rw?e=yd5Wao)
 #### [Fibonacci Element](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/Ed436_5iLk9Euot-VmmGHt4BjSOkCtwsOp9UPpfkB4MWQg?e=M4cK1u)
-#### [Static Test 2](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/EZ8RzMFjUBNGhlfceSIKt_kBLRf98UEtfjU4eCzqa5VjjQ?e=bP1RPe)
+#### [Static Test](https://upbeduco-my.sharepoint.com/:v:/g/personal/matias_macias_upb_edu_co/EZ8RzMFjUBNGhlfceSIKt_kBLRf98UEtfjU4eCzqa5VjjQ?e=bP1RPe)
